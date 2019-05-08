@@ -32,3 +32,4 @@ while True:
     for file in files:
         isItEncrypted(file)
         
+#since the encryption can be partitial, and in any possible way, i decided to check only if the files were changed..
